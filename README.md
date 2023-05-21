@@ -1,3 +1,3 @@
 Hi there...
 
-This is Mahmoud, currently a student at 1337.ma. Intrested in C,Python,Cybersecurity stuff.
+This is Mahmoud, currently a student at 1337.ma. Intrested in C,C++,Python,Cybersecurity stuff.
